@@ -1,5 +1,4 @@
 # Cybersecurity-Portfolio - Dipinsa Marasini
-Portfolio of my cybersecurity projects completed during the Google Cybersecurity Certificate program.
 This portfolio showcases my projects from the Google Cybersecurity Certificate and my Information Systems coursework, highlighting my skills in:
 Security auditing & risk assessment
 Incident documentation & response
